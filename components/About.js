@@ -35,7 +35,7 @@ const About = () => {
                 rel="noopener noreferrer"
               >
                 NeuroTechX
-              </a>
+              </a>{" "}
               that I started in 2015 and grew to the largest neurotech community
               with chapters and activities all over the world and (2) my{" "}
               <a
@@ -45,7 +45,7 @@ const About = () => {
               >
                 Deep Learning review paper for EEG
               </a>{" "}
-              (900+ citations).
+              (1000+ citations).
             </p>
             <p className="py-2">
               As opposed to most engineers, I don&apos;t fall in love with the
