@@ -20,7 +20,7 @@ const About = () => {
             </p>
             <p className="py-2">
               My expertise resides at the intersection of{" "}
-              <i>Brain-Computer Interfaces</i>, <i>Cognitive Neurosience</i>,{" "}
+              <i>Brain-Computer Interfaces</i>, <i>Cognitive Neuroscience</i>,{" "}
               <i>Machine Learning</i>, <i>Deep Learning</i>, <i>Data Science</i>
               , <i>Software Dev.</i>, <i>Research</i>, <i>Leadership</i>,{" "}
               <i>Management</i>, <i>Entrepreneurship</i>, and{" "}
